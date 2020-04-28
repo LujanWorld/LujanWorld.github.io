@@ -3,23 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/contact/</loc>
+    <loc>htts://lujanworld.org/contact/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>htts://lujanworld.org/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>htts://lujanworld.org/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>htts://lujanworld.org/about/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>htts://lujanworld.org/tags/</loc>
   </url>
   
 </urlset>

@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Maria Lujan Navarro</title>
-    <link>htts://lujanworld.org/</link>
+    <link>https://lujanworld.org/</link>
     <description>Recent content in Home on Maria Lujan Navarro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="htts://lujanworld.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lujanworld.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My projects</title>
-      <link>htts://lujanworld.org/about/</link>
+      <link>https://lujanworld.org/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>htts://lujanworld.org/about/</guid>
+      <guid>https://lujanworld.org/about/</guid>
       <description>Eco Life Javascript, Firebase,SPA, Flexbox.
  January 2020. Social Network that allows any user to create an access account, log in with it; create, edit, delete and &amp;ldquo;likear&amp;rdquo; publications.   
  Write Notes Javascript, Node.js, Jest. February 2020 It is a tool that uses Node.js, which reads and analyzes files in Markdown format, to verify the links they contain and report some statistics.
